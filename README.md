@@ -21,7 +21,7 @@ The File Manager API provides a simple interface for managing files, enabling us
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/ngugimuchangi/alx-files_manager.git
+   git clone https://github.com/kofilolx/alx-files_manager.git
    ```
 
 2. **Navigate to the Project Directory:**
